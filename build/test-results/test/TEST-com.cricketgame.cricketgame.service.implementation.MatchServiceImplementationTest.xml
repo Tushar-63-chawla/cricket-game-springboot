@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cricketgame.cricketgame.service.implementation.MatchServiceImplementationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-15T08:21:42" hostname="MBP-H6TJFDQ7C9" time="0.62">
+  <properties/>
+  <testcase name="match()" classname="com.cricketgame.cricketgame.service.implementation.MatchServiceImplementationTest" time="0.62"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
